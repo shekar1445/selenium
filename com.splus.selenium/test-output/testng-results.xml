@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="273" started-at="2017-10-07T12:49:25Z" finished-at="2017-10-07T12:49:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="273" started-at="2017-10-07T12:49:25Z" finished-at="2017-10-07T12:49:25Z">
+      <class name="com.splus.selenium.SelDemo">
+        <test-method status="PASS" signature="printSel()[pri:0, instance:com.splus.selenium.SelDemo@47c62251]" name="printSel" duration-ms="95" started-at="2017-10-07T20:49:25Z" finished-at="2017-10-07T20:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printSel -->
+      </class> <!-- com.splus.selenium.SelDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
