@@ -9,6 +9,7 @@ public class SelDemo {
 	{
 		
 		System.out.println("Sample Selenium script");
+		System.out.println("Sample Selenium script 1");
 	}
 	
 }
